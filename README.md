@@ -5,7 +5,6 @@ A portfolio created to capture all of my projects that I have produced as of tod
 ![ilya-pavlov-OqtafYT5kTw-unsplash](https://user-images.githubusercontent.com/81788993/120880948-738d6a00-c582-11eb-883e-de1e83212f96.jpg)
 
 
-You can use the [editor on GitHub](https://github.com/elashchu/elashchu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 ### My Labs
 
 1. [Lab 1:](https://elashchu.github.io/cit281-lab1/)
@@ -53,6 +52,6 @@ A project to gain experience on using modern JavaScript syntax, writing and exec
 5. [Project 5:](https://elashchu.github.io/cit281-p5/)
 A project to gain experience on working with class constructors and methods, executing and debugging Node.js code using VSCode, including module breakpoints, working with Array map() and forEach() methods, working with objects and arrays, and working with the concept of a gaming loop.
   
-[6. Project 6:](https://elashchu.github.io/cit281-p6/)
+6. [Project 6:](https://elashchu.github.io/cit281-p6/)
 A project to gain experience on creating and working classes with inheritance and using a generic block of code to process data.
   
