@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## My GitHub Portfolio
+
+A portfolio created to capture all of my projects that I have produced as of today.
 
 You can use the [editor on GitHub](https://github.com/elashchu/elashchu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
